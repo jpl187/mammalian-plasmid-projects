@@ -1,2 +1,2 @@
-# mammalian-plasmid-projects
-dna  sequences and plasmid associated with my mammalian specific projects
+# Mammalian-plasmid-projects
+Dna sequences and plasmid associated with my mammalian specific projects
